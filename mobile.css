@@ -1,0 +1,74 @@
+body{
+    background-color: yellowgreen;
+}
+body{
+    display: block;
+   
+}
+
+fieldset{
+    width: 280px;
+    height: 60vh;
+    margin: 40px;
+    margin-top: 80px;
+    padding: 10px;
+    background-color: aqua;
+    box-shadow: 3px 4px 8px rgb(199, 53, 53);
+    border: none;
+   
+}
+
+fieldset legend{
+    text-align: center;
+    font-size: 25px;
+    color: rgb(119, 23, 215);
+}
+
+labe,input{    
+     margin: 10px;
+    width: 50%;
+    height: 30px;
+}
+
+#number{
+    margin-left: 0px;
+    width: 80%;
+    width: 82%;
+    border-radius: 8px;
+    border: blue;
+    border: none;
+    outline: none;
+}
+#sum{
+    width: 80%;
+    margin-left: 5px;
+    outline: none;
+    border: none;
+}
+#average{
+    width: 80%;
+    margin-left: 5px;
+    outline: none;
+    border: none;
+}
+#product{
+    width: 80%;
+    margin-left: 5px;
+    outline: none;
+    border: none;
+}
+#bt{
+    width: 72px;
+    height: 30px;
+    background-color: blueviolet;
+    color: #ffffff;
+   border-radius: 30px 38px;
+   box-shadow: 3px 4px 8px black;
+   margin-top: 10px;
+
+} 
+.t1{
+    color: rgb(205, 50, 148);
+    font-weight: bold;
+    font-family: cursive;
+}
